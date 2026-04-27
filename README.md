@@ -64,7 +64,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>
 
 ---
-
+<!-- 
 ## 🚗 Daily Animated Car
 
 <p align="center">
@@ -75,7 +75,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   <em>This animated car updates daily! It changes between normal ☀️ and rainy 🌧️ conditions.</em>
 </p>
 
----
+--- -->
 
 <div align="center">
 
