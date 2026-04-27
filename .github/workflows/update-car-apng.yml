@@ -27,7 +27,7 @@ jobs:
           pip install Pillow
       
       - name: Generate car animations
-        run: python scripts/generate_car_apng.py
+        run: python scripts/switch_car.py
       
       - name: Commit and push changes
         run: |
