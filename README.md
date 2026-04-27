@@ -31,15 +31,14 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ### 🎨 Featured Framework Stack
 
-<!-- <p ><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<p align="center">
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"  style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"  style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"  style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a></p> -->
-
-
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>
 </p>
 
 
