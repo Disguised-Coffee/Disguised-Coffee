@@ -10,9 +10,7 @@
 
 ## 📝 About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+I am an Embedded Systems Developer dedicated to building efficient systems for resource-constrained environments. Currently, I'm deep-diving into Real-Time operating systems and FPGA devices to look into high-speed, critical systems. I believe that hardware is needed for software, and software helps hardware.
 
 ---
 
@@ -28,13 +26,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>
 </p>
 
-### Embedded Stack:
-- ARM Cortex-M
-- ESP32
-- STM32
-- Tiva C
-- Arduino
+### 🦾 Embedded Stack:
 
+<p align="center">
+<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"><img src="https://images.seeklogo.com/logo-png/40/2/espressif-systems-logo-png_seeklogo-407805.png" alt="STM32 Butterfly logo" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"><img src="https://stmicroelectronics.gallerycdn.vsassets.io/extensions/stmicroelectronics/stm32-vscode-extension/3.8.0/1773049574349/Microsoft.VisualStudio.Services.Icons.Default" alt="STM32 Butterfly logo" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
+</p>
 
 ### 🎨 DevOps/Tools:
 
@@ -42,7 +40,6 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"  style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>
  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"  style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"  style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="max-width: 100%; height: auto; max-height: 50px;" height="50"/></a>
 </p>
