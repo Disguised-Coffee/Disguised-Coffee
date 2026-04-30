@@ -61,6 +61,5 @@ I am an Embedded Systems Developer dedicated to building efficient systems for r
 
 <div align="center">
 
-**Made with ❤️, Powered by ☕**
-
+***Made with ❤️, Powered by ☕***
 </div>
