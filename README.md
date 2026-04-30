@@ -10,7 +10,7 @@
 
 ## 📝 About Me
 
-I am an Embedded Systems Developer dedicated to building efficient systems for resource-constrained environments. Currently, I'm deep-diving into Real-Time operating systems and FPGA devices to look into high-speed, critical systems. I believe that hardware is needed for software, and software helps hardware.
+I am an Embedded Systems Developer dedicated to building efficient systems for resource-constrained environments. Currently, I'm deep-diving into Real-Time operating systems and FPGA devices to look into high-speed, critical systems. I’m a firm believer in the power of hardware-software co-design to bridge the gap between silicon and code.
 
 ---
 
